@@ -2,4 +2,4 @@
 Name: Naomi Perez Urbaez
 Hometown: Framingham, MA
 Known Languages: JAVA
-Want to learn: MATLABs
+Want to learn: MATLAB
